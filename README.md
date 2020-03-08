@@ -7,7 +7,7 @@
 
 ## 使用
 1. 安装Python3、Pip3
-2. 运行pip install selenium
+2. 运行pip install selenium(生成requirements.txt:pip freeze > requirements.txt 安装requirements.txt依赖:pip install -r requirements.txt)
 3. 运行python3 auto_buy.py
 4. 根据脚本提示输入对应信息
 
